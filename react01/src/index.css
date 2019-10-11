@@ -1,0 +1,20 @@
+.container {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.btn {
+  width:200px;
+  height: 100px; 
+  border-radius: 50px;
+  background-color: aquamarine;
+}
+
+
+h3 {
+  border: solid 1px black;
+}
+
+.level {
+  margin: 20px;
+}
